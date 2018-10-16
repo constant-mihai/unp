@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
 
+# Tags
+tags
+
+# Vim
+*.swp
+*.swo
+
 # Object files
 *.o
 *.ko
